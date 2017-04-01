@@ -15,5 +15,6 @@ pip3 install websocket-client
 pip3 install placescraper
 pip3 install requests 
 
-python.exe key.py
+python.exe import.py
+python.exe update.py
 ```
